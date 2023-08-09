@@ -33,3 +33,4 @@ const styles = StyleSheet.create({
         color: GlobalStyles.colors.primary500
     }
 });
+
